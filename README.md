@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo33" alt="ryo33" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/HihahehoStudios" target="blank"><img src="https://img.shields.io/twitter/follow/HihahehoStudios?logo=twitter&style=for-the-badge" alt="cizenium" /></a> </p>
+<p align="left"> <a href="https://twitter.com/HihahehoStudio" target="blank"><img src="https://img.shields.io/twitter/follow/HihahehoStudios?logo=twitter&style=for-the-badge" alt="HihahehoStudio" /></a> </p>
 
-- 🔭 I’m currently working on [Cizen](https://gitlab.com/cizen/cizen)
+- 🔭 I’m currently working on [Hihaheho/Desk](https://gitlab.com/Hihaheho/Desk)
 
 - 🌱 I’m currently learning **Rust**
-
-- 👨‍💻 All of my projects are available at [https://www.ryo33.com](https://www.ryo33.com)
-
-- 💬 Ask me about **Elixir, Rust**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
