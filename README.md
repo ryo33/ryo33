@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Domba Hihaheho</h1>
+<h1 align="center">Hi 👋, I'm Ryo Hirayama</h1>
 <h3 align="center">Coding like playing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryo33&label=Profile%20views&color=0e75b6&style=flat" alt="ryo33" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/HihahehoStudio" target="blank"><img src="https://img.shields.io/twitter/follow/HihahehoStudios?logo=twitter&style=for-the-badge" alt="HihahehoStudio" /></a> </p>
 
-- 🔭 I’m currently working on [Hihaheho/Desk](https://gitlab.com/Hihaheho/Desk)
+- 🔭 I’m currently working on [Hihaheho/Desk](https://github.com/Hihaheho/Desk)
 
 - 🌱 I’m currently learning **Rust**
 
