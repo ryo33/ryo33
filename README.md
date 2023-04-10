@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Hihaheho/Desk](https://github.com/Hihaheho/Desk)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I love **Rust**
 
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryo33&show_icons=true&locale=en&layout=compact" alt="ryo33" /></p>
