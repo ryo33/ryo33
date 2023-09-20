@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/HihahehoStudio" target="blank"><img src="https://img.shields.io/twitter/follow/HihahehoStudio?logo=twitter&style=for-the-badge" alt="HihahehoStudio" /></a> </p>
 
-- 🔭 I’m currently working on [Hihaheho/Desk](https://github.com/Hihaheho/Desk)
+- 🔭 I’m creating a new game.
 
 - 🌱 I love **Rust**
 
